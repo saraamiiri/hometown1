@@ -1,0 +1,23 @@
+body {
+ background-image: linear-gradient(#E1E289, white);
+  text-align:center;
+  margin: 20px  auto;
+    font-family: "Roboto", sans-serif;
+  color:#0A210F;
+}
+
+#img-of-hotel{
+  margin:30px auto;
+  width:400px;
+  border:5px solid #14591D ;  
+}
+#img-of-eram{
+    margin:30px auto;
+  width:400px;
+  border:5px solid #14591D ;  
+}
+#img-of-hafez{
+   margin:30px auto;
+  width:400px;
+  border:5px solid #14591D ;  
+}
